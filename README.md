@@ -9,6 +9,7 @@
     <form> <select> <option>10</option> <option>7</option> <option>25</option> </select> </form>
     <p>3. What is 6 &times; 7?</p>
 <form> <select> <option>13</option> <option>42</option> <option>21</option> </select> </form>
+    <button input type- submit> Submit</button>
     <!-- END OF QUIZ-->
   </body>
 </html>
